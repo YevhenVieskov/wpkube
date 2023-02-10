@@ -1,0 +1,2 @@
+# wpcube
+wordpress kubernetes deployment
